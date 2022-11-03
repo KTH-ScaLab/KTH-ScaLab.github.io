@@ -1,0 +1,8 @@
+title: ScaLab @ KTH
+description: Scalable Parallel System Research Group
+show_downloads: true
+google_analytics:
+external_page:
+      group_url: https://www.kth.se/social/group/scalable-computing/
+      mchpc_url: https://passlab.github.io/mchpc/mchpc2022/
+theme: jekyll-theme-slate
