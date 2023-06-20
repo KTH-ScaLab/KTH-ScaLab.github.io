@@ -91,7 +91,7 @@ Heterogeneous Computing, Parallel Algorithms, GPU<br>
 
 <div align="left">
 <strong>About me:</strong><br>
-
+Bonjour! My name is Gabin Schieffer, I am a doctoral student in Computer Science at KTH. I am part of the Scalable Parallel System Laboratory research group (ScaLab). My research focus on GPU acceleration of scientific applications.  I am also interested in distributed computing, in both HPC clusters and cloud computing environments. My current work aims at enabling the use of novel GPU features to accelerate typical high-performance computing workloads, such as molecular docking applications.
 
 </div>
 
@@ -99,8 +99,8 @@ Heterogeneous Computing, Parallel Algorithms, GPU<br>
 ------
 
 <section align="center">
-<img width="50" src="../assets/images/profile.png"><br>
-<a href="https://www.kth.se/profile/gabins">Jennifer Faj</a><br>
+<img width="50" src="https://www.kth.se/files/avatar/faj"><br>
+<a href="https://www.kth.se/profile/faj">Jennifer Faj</a><br>
 Doctoral Student<br>
 Department of Computer Science<br>
 EECS, KTH<br>
