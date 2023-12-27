@@ -1,6 +1,7 @@
 title: ScaLab @ KTH
-description: Scalable Parallel System Research Group
+description: Scalable Computing Research Group
 google_analytics: G-4TQP6KS97Z
-external_page:
-      group_url: https://www.kth.se/social/group/scalable-computing/
 theme: jekyll-theme-slate
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
