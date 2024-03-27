@@ -9,7 +9,7 @@ permalink: /people/
 <section align="center">
 <img width="50" src="https://ibpeng.github.io/small.png"><br>
 <a href="https://ibpeng.github.io/">Ivy Peng, Ph.D</a><br>
-Assistant Professor<br>
+Associate Professor in Computer Science<br>
 Department of Computer Science<br>
 EECS, KTH<br>
 </section><br>
