@@ -5,7 +5,7 @@ permalink: /events/memo24
 ---
 
 
-#### [Introduction](#Intro) | [Topics](#topics) | [Dates](#dates) | [Organizers](#org) | [Program Committee](#pc) | [Submission](#submission) | [Program](#program) | [Previous Editions](/events) 
+#### [Introduction](#Intro) | [Topics](#topics) | [Dates](#dates) | [Organizers](#org) | [Program Committee](#pc) | [Submission](#submission) | [Program](#program) 
 ----
 
 #### held in conjunction SC24: [The International Conference on High Performance Computing, Networking, Storage and Analysis](https://sc24.supercomputing.org/) and in cooperation with [IEEE Computer Society](https://www.computer.org)
