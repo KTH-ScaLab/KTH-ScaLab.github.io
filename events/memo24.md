@@ -46,6 +46,7 @@ This workshop aims to bring together computer science and computational science 
  + Ivy Peng (KTH Royal Institute of Technology, Sweden)
  + Kyle Hale (Illinois Institute of Technology, USA)
  + Maya Gokhale (Lawrence Livermore National Laboratory, USA)
+
 ----
  
 ### <a name="pc"></a>Program Committee
