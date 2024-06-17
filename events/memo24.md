@@ -9,7 +9,7 @@ permalink: /events/memo24
 ----
 
 #### held in conjunction SC24: [The International Conference on High Performance Computing, Networking, Storage and Analysis](https://sc24.supercomputing.org/) and in cooperation with [IEEE Computer Society](https://www.computer.org)
-#### ## Time/Date: 2:00PM - 5:30PM, Sunday, November 17, 2024
+#### Time/Date: 2:00PM - 5:30PM, Sunday, November 17, 2024
 #### Location: [the Georgia World Congress Center, Atlanta](https://sc24.supercomputing.org/attend/convention-center/)
 ---
 
@@ -41,26 +41,31 @@ This workshop aims to bring together computer science and computational science 
  + Camera Ready Papers -- September 15, 2024
  + November 17 2024 - Workshop
  
-### <a name="submission"></a>Submission and Review Process
-[Submission is Open](https://submissions.supercomputing.org). Login to SC'24 submission site, click 'Make a New Submission', choose MEMO'24. For SC24, IEEE is the SC proceeding publisher. Submissions must use the template of IEEE conference proceedings: two-column, US letter. The minimum number of pages is 5 pages, including references, and there is no upper limit of pages. IEEE will be providing a unique copyright submission site, and access to PDF eXpress to validate final pdfs. Additional guidelines, including the copyright notice for the camera-ready, will be provided at a later time. Camera ready papers are required to be formatted the same as the main conference papers. Each paper is expected to receive a minimum of 3 reviews. Double-blind peer-review will be used. Papers will be evaluated based on novelty, technical soundness, clarity of presentation, and impact. The Technical Program Committee reserves the right to reject incorrectly formatted papers.
-
-
 ### <a name="org"></a>Organizers
  + Ron Brightwell (Sandia National Laboratories, USA)
  + Ivy Peng (KTH Royal Institute of Technology, Sweden)
  + Kyle Hale (Illinois Institute of Technology, USA)
  + Maya Gokhale (Lawrence Livermore National Laboratory, USA)
-
-----
-
-## <a name="program"></a>Program (2:00PM - 5:30PM, Sunday, November 17, 2024 @ the Georgia World Congress Center, Atlanta)
-
- TBD
-
 ----
  
 ### <a name="pc"></a>Program Committee
+ + Jeff Vetter (Oak Ridge National Laboratory, USA)
+ + Jason Lowe-Power (University of California, Davis; Lawrence Berkeley National Laboratory, USA)
+ + Thaleia Dimitra Doudali (IMDEA Software Institute, Spain)
+ + Seyong Lee (Oak Ridge National Laboratory, USA)
+ + Gwendolyn Voskuilen (Sandia National Laboratory, USA)
+ + Jie Ren (College of William & Mary, USA)
+ + Petar Radojkovic (Barcelona Supercomputing Center (BSC); Polytechnic University of Catalonia, Spain)
+
+### <a name="submission"></a>Submission and Review Process
+[Submission is Open](https://submissions.supercomputing.org). Login to SC'24 submission site, click 'Make a New Submission', choose MEMO'24. For SC24, IEEE is the SC proceeding publisher. Submissions must use the template of IEEE conference proceedings: two-column, US letter. The minimum number of pages is 5 pages, including references, and there is no upper limit of pages. IEEE will be providing a unique copyright submission site, and access to PDF eXpress to validate final pdfs. Additional guidelines, including the copyright notice for the camera-ready, will be provided at a later time. Camera ready papers are required to be formatted the same as the main conference papers. Each paper is expected to receive a minimum of 3 reviews. Double-blind peer-review will be used. Papers will be evaluated based on novelty, technical soundness, clarity of presentation, and impact. The Technical Program Committee reserves the right to reject incorrectly formatted papers.
+
+----
+## <a name="program"></a>Program
+(2:00PM - 5:30PM, Sunday, November 17, 2024 @ the Georgia World Congress Center, Atlanta)
 
 TBD
+
+   
 
 
