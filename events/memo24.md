@@ -58,6 +58,7 @@ This workshop aims to bring together computer science and computational science 
  + Jie Ren (College of William & Mary, USA)
  + Petar Radojkovic (Barcelona Supercomputing Center (BSC); Polytechnic University of Catalonia, Spain)
  + Shirley Moore (University of Texas, El Paso, USA)
+ + Christian Pinto (IBM, Ireland) 
 
 ### <a name="submission"></a>Submission and Review Process
 [Submission is Open](https://submissions.supercomputing.org). Login to SC'24 submission site, click 'Make a New Submission', choose MEMO'24. For SC24, IEEE is the SC proceeding publisher. Submissions must use the template of IEEE conference proceedings: two-column, US letter. The minimum number of pages is 5 pages, including references, and there is no upper limit of pages. IEEE will be providing a unique copyright submission site, and access to PDF eXpress to validate final pdfs. Additional guidelines, including the copyright notice for the camera-ready, will be provided at a later time. Camera ready papers are required to be formatted the same as the main conference papers. Each paper is expected to receive a minimum of 3 reviews. Double-blind peer-review will be used. Papers will be evaluated based on novelty, technical soundness, clarity of presentation, and impact. The Technical Program Committee reserves the right to reject incorrectly formatted papers.
