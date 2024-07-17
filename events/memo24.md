@@ -36,10 +36,10 @@ This workshop aims to bring together computer science and computational science 
 + Application development and optimization for new memory architecture and technologies and those overcome memory related challenges in their problems.
 
 ### <a name="dates"></a>Important Dates
- + Submission Deadline -- July 25, 2024 (AoE)
- + Notifications -- August 25, 2024
- + Camera Ready Papers -- September 15, 2024
- + November 17 2024 - Workshop
+ + Submission Deadline -- ~~July 25~~ August 02, 2024 (AoE)
+ + Notifications -- ~~August 25~~ September 06, 2024 (FIRM)
+ + Camera Ready Papers -- ~~September 15~~ September 27, 2024 (FIRM)
+ + Workshop -- November 17, 2024
  
 ### <a name="org"></a>Organizers
  + Ron Brightwell (Sandia National Laboratories, USA)
