@@ -36,7 +36,7 @@ This workshop aims to bring together computer science and computational science 
 + Application development and optimization for new memory architecture and technologies and those overcome memory related challenges in their problems.
 
 ### <a name="dates"></a>Important Dates
- + Submission Deadline -- ~~July 25~~ August 02, 2024 (AoE)
+ + Submission Deadline -- ~~July 25~~ August 09, 2024 (AoE)
  + Notifications -- ~~August 25~~ September 06, 2024 (FIRM)
  + Camera Ready Papers -- ~~September 15~~ September 27, 2024 (FIRM)
  + Workshop -- November 17, 2024
