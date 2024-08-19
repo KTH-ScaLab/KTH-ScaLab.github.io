@@ -67,8 +67,16 @@ This workshop aims to bring together computer science and computational science 
 ## <a name="program"></a>Program
 (2:00PM - 5:30PM, Sunday, November 17, 2024 @ the Georgia World Congress Center, Atlanta)
 
+### Invited Talk: Memory & Storage: The Power of HPC/AI
+### Speaker: Dr. Jongryool Kim (SK Hynix)
+### Bio: 
+Dr. Jongryool Kim is currently serving as the research director of AI System Infra team at SK hynix Inc., located in San Jose, California. He has been a part of the SK hynix since 2020, during which time he has been conducting research and development of numerous advanced projects such as custom HBM, CXL Pooled memory, computational CXL memory and storage, and object interface storage solution for AI/HPC systems. Additionally, he is a member of the Open Computing Project (OCP) Future Technology Initiative (FTI), working for the data-centric computing (DCC) workstream. Dr. Kim is also a Science Advisory Board (SAB) member of Semiconductor Research Corporation (SRC) JUMP 2.0. 
+Prior to this role, he had served as the cloud system architect at Samsung Mobile division developing and operating a Samsung Cloud data analytics system that manages and analyzes data from all Samsung devices such as smart phones, wearable devices, and home appliances around the world. Additionally, he worked with various R&D teams at Samsung SW R&D Center. He conducted research to improve network and storage IO performance in High Performance Computing (HPC) and Cloud.
+
+### Technical Talk Session 1:
 TBD
 
-   
+### Technical Talk Session 2:
+TBD
 
 
