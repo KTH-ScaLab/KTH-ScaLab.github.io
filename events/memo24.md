@@ -10,16 +10,18 @@ permalink: /events/memo24
 
 #### held in conjunction SC24: [The International Conference on High Performance Computing, Networking, Storage and Analysis](https://sc24.supercomputing.org/) and in cooperation with [IEEE Computer Society](https://www.computer.org)
 #### Time/Date: 2:00PM - 5:30PM, Sunday, November 17, 2024
-#### Location: [the Georgia World Congress Center, Atlanta](https://sc24.supercomputing.org/attend/convention-center/)
+#### Location: Room 302, [the Georgia World Congress Center, Atlanta](https://sc24.supercomputing.org/attend/convention-center/)
 ---
 
 ### <a name="Intro"></a>Introduction
-The growing disparity between computing speed and memory speed, commonly referred to as the memory wall problem, remains a critical and enduring challenge in the computing community. Recent developments, such as the expansion of the memory hierarchy and the increasingly blurred line between memory and storage, coupled with the introduction of new memory technologies, such as high-bandwidth memory, non-volatile memory, and disaggregated memory, further complicate the situation. The prevalence of heterogeneous computing, ongoing advancements in the memory hierarchy, and the rise of disaggregated architectures significantly broaden the scope of this challenge. Simultaneously, the proliferation of large machine learning (ML) models, graph processing applications, and traditional scientific applications facing bottlenecks due to memory latency, bandwidth, or capacity issues continue to drive researchers, professionals, and practitioners to enhance memory system design and memory management, overcome the constraints imposed by the memory wall, and facilitate high-performance memory-intensive applications.
+Recent developments of new memory technologies, such as high-bandwidth memory, non-volatile memory, and disaggregated memory, coupled with advanced high-performance interconnects like CXL and NVlink-c2c, further expand the memory hierarchy and increasingly blur the boundary between memory and storage. The growing disparity between computing speed and memory speed, commonly referred to as the Memory Wall problem, remains a critical and enduring challenge in the computing community. 
 
-Computer architecture, operating systems, storage systems, performance models, tools, and applications themselves are being enhanced or even redesigned to address the performance, programmability, and energy efficiency challenges of the increasingly complex and heterogeneous memory systems. Exploring the intersection of these research areas will enable cohesive and synergistic development and collaboration on the future of memory technologies, systems, and applications. Computer architecture and hardware systems, operating systems, storage and file systems, programming stack, performance models and tools are being enhanced, augmented, or even redesigned to address the performance, programmability, and energy efficiency challenges of the increasingly complex and heterogeneous memory systems for HPC and data-intensive applications.
+The prevalence of heterogeneous computing, ongoing advancements in the memory hierarchy, and the rise of disaggregated architectures significantly broaden the scope of the challenge of efficiently exploiting memory subsystems on large-scale parallel systems. Simultaneously, the proliferation of large machine learning models, graph processing, quantum computer simulations, and traditional scientific applications facing bottlenecks due to memory latency, bandwidth, and capacity constraints, continue to drive researchers, professionals, and practitioners to enhance memory system design and memory management. Computer architecture, operating systems, storage systems, middleware, performance models, tools, and applications are continuously being optimized or even redesigned to address the performance, programmability, and energy efficiency challenges of Memory Wall. Exploring the intersection of these research areas will enable cohesive and synergistic development and collaboration on the future of memory technologies, systems, middleware, and applications. 
+
+This workshop aims to bring together computer science and computational science researchers, from industry, government labs, and academia, concerned with the challenges of efficiently using existing and emerging memory systems. The term performance for memory systems is general, which includes latency, bandwidth, power consumption, and reliability from the aspect of hardware memory technologies to how it is manifested in the application performance.
 
 ### <a name="topics"></a>Topics of Interest 
-This workshop aims to bring together computer science and computational science researchers, from industry, government labs and academia, concerned with the challenges of efficiently using existing and emerging memory systems. The term performance for memory systems is general, which includes latency, bandwidth, power consumption and reliability from the aspect of hardware memory technologies to how it is manifested in the application performance. The topics of interest include, but are not limited to:
+The topics of interest include, but are not limited to:
 
 + Evaluation, characterization, performance analysis, and use cases of emerging memory technologies, including non-volatile memories, high-bandwidth memory, heterogeneous memory, disaggregated memory, etc.
 
@@ -35,6 +37,35 @@ This workshop aims to bring together computer science and computational science 
 
 + Application development and optimization for new memory architecture and technologies and those overcome memory related challenges in their problems.
 
+----
+## <a name="program"></a>Program (2:00PM - 5:30PM, Room 302, Sunday, November 17, 2024)
+
+### 2:00-2:45pm: Invited Talk: Memory & Storage: The Power of HPC/AI
+Speaker: Dr. Jongryool Kim (SK Hynix)
+Bio: Dr. Jongryool Kim is currently serving as the research director of AI System Infra team at SK hynix Inc., located in San Jose, California. He has been a part of the SK hynix since 2020, during which time he has been conducting research and development of numerous advanced projects such as custom HBM, CXL Pooled memory, computational CXL memory and storage, and object interface storage solution for AI/HPC systems. Additionally, he is a member of the Open Computing Project (OCP) Future Technology Initiative (FTI), working for the data-centric computing (DCC) workstream. Dr. Kim is also a Science Advisory Board (SAB) member of Semiconductor Research Corporation (SRC) JUMP 2.0. 
+Prior to this role, he had served as the cloud system architect at Samsung Mobile division developing and operating a Samsung Cloud data analytics system that manages and analyzes data from all Samsung devices such as smart phones, wearable devices, and home appliances around the world. Additionally, he worked with various R&D teams at Samsung SW R&D Center. He conducted research to improve network and storage IO performance in High Performance Computing (HPC) and Cloud.
+
+### 2:45-3:10pm: PIMnast: Balanced Data Placement for GEMV Acceleration with Processing-In-Memory
+Speaker: Mohamed Ibrahim, Mahzabeen Islam, Shaizeen Aga (AMD Inc.)
+
+### 3:10 – 3:30pm, Coffee Break
+
+### 3:30-3:55pm: ACID Support for Compute eXpress Link Memory Transactions
+Speaker: Ellis Giles (Coda Solutions, Adv. Arch. Lab), Peter Varman (Rice University)
+
+### 3:55-4:20pm: Multi-level Memory-Centric Profiling on ARM Processors with ARM SPE
+Speaker: Samuel Miksits, Ruimin Shi (KTH), Gokhale (LLNL), Jacob Wahlgren, Gabin Schieffer, Ivy Peng (KTH)
+
+### 4:20-4:45pm: Sum Reduction with OpenMP Offload on NVIDIA Grace-Hopper System
+Speaker: Jin (ORNL)
+
+### 4:45-5:10pm: GMTrans : Combining Scalable Address Translation with Locality Control 
+Speaker: Yuqing Wang (University of Chicago), Swann Perarnau (Argonne National Laboratory), Andrew Chien (University of Chicago)
+
+### 5:10-5:35pm: GMTrans : Symmetric Locality: Definition and Initial Results
+Speaker: Giordan Escalona, Dylan McKellips, Chen Ding (University of Rochester)
+
+----
 ### <a name="dates"></a>Important Dates
  + Submission Deadline -- ~~July 25~~ August 09, 2024 (AoE)
  + Notifications -- ~~August 25~~ September 06, 2024 (FIRM)
@@ -46,8 +77,6 @@ This workshop aims to bring together computer science and computational science 
  + Ivy Peng (KTH Royal Institute of Technology, Sweden)
  + Kyle Hale (Illinois Institute of Technology, USA)
  + Maya Gokhale (Lawrence Livermore National Laboratory, USA)
-
-----
  
 ### <a name="pc"></a>Program Committee
  + Jeff Vetter (Oak Ridge National Laboratory, USA)
@@ -62,21 +91,5 @@ This workshop aims to bring together computer science and computational science 
 
 ### <a name="submission"></a>Submission and Review Process
 [Submission is Open](https://submissions.supercomputing.org). Login to SC'24 submission site, click 'Make a New Submission', choose MEMO'24. For SC24, IEEE is the SC proceeding publisher. Submissions must use the template of IEEE conference proceedings: two-column, US letter. The minimum number of pages is 5 pages, including references, and there is no upper limit of pages. IEEE will be providing a unique copyright submission site, and access to PDF eXpress to validate final pdfs. Additional guidelines, including the copyright notice for the camera-ready, will be provided at a later time. Camera ready papers are required to be formatted the same as the main conference papers. Each paper is expected to receive a minimum of 3 reviews. Double-blind peer-review will be used. Papers will be evaluated based on novelty, technical soundness, clarity of presentation, and impact. The Technical Program Committee reserves the right to reject incorrectly formatted papers.
-
-----
-## <a name="program"></a>Program
-(2:00PM - 5:30PM, Sunday, November 17, 2024 @ the Georgia World Congress Center, Atlanta)
-
-### Invited Talk: Memory & Storage: The Power of HPC/AI
-### Speaker: Dr. Jongryool Kim (SK Hynix)
-### Bio: 
-Dr. Jongryool Kim is currently serving as the research director of AI System Infra team at SK hynix Inc., located in San Jose, California. He has been a part of the SK hynix since 2020, during which time he has been conducting research and development of numerous advanced projects such as custom HBM, CXL Pooled memory, computational CXL memory and storage, and object interface storage solution for AI/HPC systems. Additionally, he is a member of the Open Computing Project (OCP) Future Technology Initiative (FTI), working for the data-centric computing (DCC) workstream. Dr. Kim is also a Science Advisory Board (SAB) member of Semiconductor Research Corporation (SRC) JUMP 2.0. 
-Prior to this role, he had served as the cloud system architect at Samsung Mobile division developing and operating a Samsung Cloud data analytics system that manages and analyzes data from all Samsung devices such as smart phones, wearable devices, and home appliances around the world. Additionally, he worked with various R&D teams at Samsung SW R&D Center. He conducted research to improve network and storage IO performance in High Performance Computing (HPC) and Cloud.
-
-### Technical Talk Session 1:
-TBD
-
-### Technical Talk Session 2:
-TBD
 
 
