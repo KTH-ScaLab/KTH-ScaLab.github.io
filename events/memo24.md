@@ -13,6 +13,37 @@ permalink: /events/memo24
 #### Location: Room 302, [the Georgia World Congress Center, Atlanta](https://sc24.supercomputing.org/attend/convention-center/)
 ---
 
+## <a name="program"></a>Program (2:00PM - 5:30PM, Room 302, Sunday, November 17, 2024)
+
+### 2:00-2:45pm: Invited Talk: Memory & Storage: The Power of HPC/AI
+Speaker: Dr. Jongryool Kim (SK Hynix)
+
+Abstract: The growth of AI/Deep learning and data analytics has created many of the most challenging HPC workloads in recent years. Usually HPC/AI applications are driving the need for better memory and storage performance and capacity and despite significant advancements, memory and storage in HPC/AI still encounters several challenges in these. SK hynix has tried to continuous innovation and technological breakthroughs to solve these challenges in Memory/Storage.
+As part of these efforts, this talk will highlight the key roles that advanced memory and storage play in HPC/AI ecosystem and potential benefits of “Processing Near Data with CXL/HBM/SSD” and “CXL Pooled Memory's Data Sharing” for HPC/AI Systems.
+
+Bio: Dr. Jongryool Kim is currently serving as the research director of AI System Infra team at SK hynix Inc., located in San Jose, California. He has been conducting research and development of numerous advanced projects such as custom HBM, CXL Pooled memory, computational CXL memory, and object interface storage solution for AI/HPC systems. Additionally, he is a Science Advisory Board (SAB) member of Semiconductor Research Corporation (SRC) JUMP 2.0. Prior to this role, he had served as the cloud system architect at Samsung Mobile division developing and operating a Samsung Cloud data analytics system that manages and analyzes data from all Samsung devices such as smart phones, wearable devices, and home appliances around the world. Additionally, he worked with various R&D teams at Samsung SW R&D Center. He conducted research to improve network and storage IO performance in Cloud.
+
+### 2:45-3:10pm: PIMnast: Balanced Data Placement for GEMV Acceleration with Processing-In-Memory
+Speaker: Mohamed Ibrahim, Mahzabeen Islam, Shaizeen Aga (AMD)
+
+### 3:10 – 3:30pm, Coffee Break
+
+### 3:30-3:55pm: ACID Support for Compute eXpress Link Memory Transactions
+Speaker: Ellis Giles (Coda Solutions, Adv. Arch. Lab), Peter Varman (Rice University)
+
+### 3:55-4:20pm: Multi-level Memory-Centric Profiling on ARM Processors with ARM SPE
+Speaker: Samuel Miksits, Ruimin Shi (KTH), Maya Gokhale (LLNL), Jacob Wahlgren, Gabin Schieffer, Ivy Peng (KTH)
+
+### 4:20-4:45pm: Sum Reduction with OpenMP Offload on NVIDIA Grace-Hopper System
+Speaker: Zheming Jin (ORNL)
+
+### 4:45-5:10pm: GMTrans : Combining Scalable Address Translation with Locality Control 
+Speaker: Yuqing Wang (University of Chicago), Swann Perarnau (Argonne National Laboratory), Andrew Chien (University of Chicago)
+
+### 5:10-5:35pm: GMTrans : Symmetric Locality: Definition and Initial Results
+Speaker: Giordan Escalona, Dylan McKellips, Chen Ding (University of Rochester)
+
+----
 ### <a name="Intro"></a>Introduction
 Recent developments of new memory technologies, such as high-bandwidth memory, non-volatile memory, and disaggregated memory, coupled with advanced high-performance interconnects like CXL and NVlink-c2c, further expand the memory hierarchy and increasingly blur the boundary between memory and storage. The growing disparity between computing speed and memory speed, commonly referred to as the Memory Wall problem, remains a critical and enduring challenge in the computing community. 
 
@@ -36,34 +67,6 @@ The topics of interest include, but are not limited to:
 + Tools, modeling, evaluation, and case study of memory system behavior and application performance that reveals the limitations and characteristics of existing memory systems.
 
 + Application development and optimization for new memory architecture and technologies and those overcome memory related challenges in their problems.
-
-----
-## <a name="program"></a>Program (2:00PM - 5:30PM, Room 302, Sunday, November 17, 2024)
-
-### 2:00-2:45pm: Invited Talk: Memory & Storage: The Power of HPC/AI
-Speaker: Dr. Jongryool Kim (SK Hynix)
-Bio: Dr. Jongryool Kim is currently serving as the research director of AI System Infra team at SK hynix Inc., located in San Jose, California. He has been a part of the SK hynix since 2020, during which time he has been conducting research and development of numerous advanced projects such as custom HBM, CXL Pooled memory, computational CXL memory and storage, and object interface storage solution for AI/HPC systems. Additionally, he is a member of the Open Computing Project (OCP) Future Technology Initiative (FTI), working for the data-centric computing (DCC) workstream. Dr. Kim is also a Science Advisory Board (SAB) member of Semiconductor Research Corporation (SRC) JUMP 2.0. 
-Prior to this role, he had served as the cloud system architect at Samsung Mobile division developing and operating a Samsung Cloud data analytics system that manages and analyzes data from all Samsung devices such as smart phones, wearable devices, and home appliances around the world. Additionally, he worked with various R&D teams at Samsung SW R&D Center. He conducted research to improve network and storage IO performance in High Performance Computing (HPC) and Cloud.
-
-### 2:45-3:10pm: PIMnast: Balanced Data Placement for GEMV Acceleration with Processing-In-Memory
-Speaker: Mohamed Ibrahim, Mahzabeen Islam, Shaizeen Aga (AMD Inc.)
-
-### 3:10 – 3:30pm, Coffee Break
-
-### 3:30-3:55pm: ACID Support for Compute eXpress Link Memory Transactions
-Speaker: Ellis Giles (Coda Solutions, Adv. Arch. Lab), Peter Varman (Rice University)
-
-### 3:55-4:20pm: Multi-level Memory-Centric Profiling on ARM Processors with ARM SPE
-Speaker: Samuel Miksits, Ruimin Shi (KTH), Gokhale (LLNL), Jacob Wahlgren, Gabin Schieffer, Ivy Peng (KTH)
-
-### 4:20-4:45pm: Sum Reduction with OpenMP Offload on NVIDIA Grace-Hopper System
-Speaker: Jin (ORNL)
-
-### 4:45-5:10pm: GMTrans : Combining Scalable Address Translation with Locality Control 
-Speaker: Yuqing Wang (University of Chicago), Swann Perarnau (Argonne National Laboratory), Andrew Chien (University of Chicago)
-
-### 5:10-5:35pm: GMTrans : Symmetric Locality: Definition and Initial Results
-Speaker: Giordan Escalona, Dylan McKellips, Chen Ding (University of Rochester)
 
 ----
 ### <a name="dates"></a>Important Dates
