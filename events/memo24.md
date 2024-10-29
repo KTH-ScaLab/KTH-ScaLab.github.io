@@ -13,10 +13,9 @@ permalink: /events/memo24
 #### Location: Room 302, [the Georgia World Congress Center, Atlanta](https://sc24.supercomputing.org/attend/convention-center/)
 ---
 
-## <a name="program"></a>Program (2:00PM - 5:30PM, Room 302, Sunday, November 17, 2024)
-
+### <a name="program"></a>Program (2:00PM - 5:30PM, Room 302, Sunday, November 17, 2024)
 ### 2:00-2:45pm: Invited Talk: Memory & Storage: The Power of HPC/AI
-Speaker: Dr. Jongryool Kim (SK Hynix)
+#### Speaker: Dr. Jongryool Kim (SK Hynix)
 
 Abstract: The growth of AI/Deep learning and data analytics has created many of the most challenging HPC workloads in recent years. Usually HPC/AI applications are driving the need for better memory and storage performance and capacity and despite significant advancements, memory and storage in HPC/AI still encounters several challenges in these. SK hynix has tried to continuous innovation and technological breakthroughs to solve these challenges in Memory/Storage.
 As part of these efforts, this talk will highlight the key roles that advanced memory and storage play in HPC/AI ecosystem and potential benefits of “Processing Near Data with CXL/HBM/SSD” and “CXL Pooled Memory's Data Sharing” for HPC/AI Systems.
