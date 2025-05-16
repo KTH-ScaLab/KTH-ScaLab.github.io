@@ -39,28 +39,47 @@ The topics of interest include, but are not limited to:
 
 ----
 ### <a name="dates"></a>Important Dates
- + Submission Deadline -- July 27, 2025 (AoE)
+ + Submission Deadline -- July 27, 2025 (AoE) -- [Submission is Open](https://submissions.supercomputing.org). 
  + Notifications -- September 01, 2025 (AoE)
  + Camera Ready Papers -- September 29, 2025 (FIRM)
  + Workshop -- November 16 (Sunday afternoon), 2025
+
+---
+
+### <a name="submission"></a>Submission and Review Process
+[Submission is Open](https://submissions.supercomputing.org). Login to SC'25 [Submission Site](https://submissions.supercomputing.org), click 'Make a New Submission', choose **MEMO'25**. For SC25, ACM is the SC proceeding publisher. Submissions must use the template at https://www.acm.org/publications/proceedings-template (use \documentclass[sigconf,screen,final]{acmart} in the ACM LaTeX template). Submitted manuscripts may not exceed eight (8) pages in length for regular papers and four (4) pages for position papers (excluding references).
+
+Submitted papers must represent original unpublished research that is not currently under review for any other conference or journal. Each paper is expected to receive a minimum of 3 reviews. Double-blind peer-review will be used. Papers will be evaluated based on novelty, technical soundness, clarity of presentation, and impact.
+
+Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation (AE) appendices in the submitted manuscript (see https://sc25.supercomputing.org/program/papers/reproducibility-initiative/).
  
+---
+
+### <a name="pc"></a>Program Committee
++ Gwendolyn Voskuilen (Sandia National Laboratories, USA)
++ Kengo Nakajima (The University of Tokyo; RIKEN, Japan)
++ Seyong Lee (Oak Ridge National Laboratory, USA)
++ Edgar A Leon (Lawrence Livermore National Laboratory, USA)
++ Petar Radojkovic (Barcelona Supercomputing Center (BSC); Polytechnic University of Catalonia, Spain)
++ Jie Ren College of William & Mary, USA)
++ Ivy Peng (KTH Royal Institute of Technology, Sweden)
++ Maya Gokhale (Lawrence Livermore National Laboratory, USA)
++ Stephen L. Olivier (Sandia National Laboratories, USA)
++ Kyle Hale (Illinois Institute of Technology, USA)
+
+---
 ### <a name="org"></a>Organizers
  + Maya Gokhale (Lawrence Livermore National Laboratory, USA)
  + Ivy Peng (KTH Royal Institute of Technology, Sweden)
  + Kyle Hale (Illinois Institute of Technology, USA)
  + Stephen L. Olivier (Sandia National Laboratories, USA)
+ + Ron Minnich (Hewlett Packard Enterprise, USA)
  
 ---
 
 ### <a name="program"></a>Program (2:00PM - 5:30PM, Room TBD, Sunday, November 16, 2025)
 ### TBD
 
----
 
-### <a name="pc"></a>Program Committee
-TBD
-
-### <a name="submission"></a>Submission and Review Process
-[Submission is Open](https://submissions.supercomputing.org). Login to SC'25 submission site, click 'Make a New Submission', choose MEMO'25. For SC25, IEEE is the SC proceeding publisher. Submissions must use the template of IEEE conference proceedings: two-column, US letter. The minimum number of pages is 5 pages, including references, and there is no upper limit of pages. IEEE will be providing a unique copyright submission site, and access to PDF eXpress to validate final pdfs. Additional guidelines, including the copyright notice for the camera-ready, will be provided at a later time. Camera ready papers are required to be formatted the same as the main conference papers. Each paper is expected to receive a minimum of 3 reviews. Double-blind peer-review will be used. Papers will be evaluated based on novelty, technical soundness, clarity of presentation, and impact. The Technical Program Committee reserves the right to reject incorrectly formatted papers.
 
 
