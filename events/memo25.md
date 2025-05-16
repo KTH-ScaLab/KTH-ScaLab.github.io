@@ -47,7 +47,7 @@ The topics of interest include, but are not limited to:
 ---
 
 ### <a name="submission"></a>Submission and Review Process
-[Submission is Open](https://submissions.supercomputing.org). Login to SC'25 [Submission Site](https://submissions.supercomputing.org), click 'Make a New Submission', choose **MEMO'25**. For SC25, ACM is the SC proceeding publisher. Submissions must use the template at https://www.acm.org/publications/proceedings-template (use \documentclass[sigconf,screen,final]{acmart} in the ACM LaTeX template). Submitted manuscripts may not exceed eight (8) pages in length for regular papers and four (4) pages for position papers (excluding references).
+[Submission is Open](https://submissions.supercomputing.org). Login to SC'25 [Submission Site](https://submissions.supercomputing.org), click 'Make a New Submission', choose **MEMO'25**. For SC25, ACM is the SC proceeding publisher. Submissions must use the template at https://www.acm.org/publications/proceedings-template (use \documentclass[sigconf,screen,final]{acmart} in the ACM LaTeX template). Submitted manuscripts may not exceed eight (8) pages in length for regular papers and at least (4) pages for short papers, excluding references.
 
 Submitted papers must represent original unpublished research that is not currently under review for any other conference or journal. Each paper is expected to receive a minimum of 3 reviews. Double-blind peer-review will be used. Papers will be evaluated based on novelty, technical soundness, clarity of presentation, and impact.
 
