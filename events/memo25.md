@@ -57,6 +57,7 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
 
 ### <a name="pc"></a>Program Committee
 + Gwendolyn Voskuilen (Sandia National Laboratories, USA)
++ Frank Hady (Intel Fellow)
 + Kengo Nakajima (The University of Tokyo; RIKEN, Japan)
 + Seyong Lee (Oak Ridge National Laboratory, USA)
 + Edgar A Leon (Lawrence Livermore National Laboratory, USA)
