@@ -46,7 +46,7 @@ The topics of interest include, but are not limited to:
 
 ----
 ### <a name="dates"></a>Important Dates
- + Submission Deadline -- July 27, 2025 (AoE) -- [Submission is Open](https://submissions.supercomputing.org). 
+ + Submission Deadline -- ~~July 27~~ August 10, 2025 (AoE) -- [Submission is Open](https://submissions.supercomputing.org). 
  + Notifications -- September 01, 2025 (AoE)
  + Camera Ready Papers -- September 29, 2025 (FIRM)
  + Workshop -- November 16 (Sunday afternoon), 2025
@@ -73,13 +73,13 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
 + Ivy Peng (KTH Royal Institute of Technology, Sweden)
 + Maya Gokhale (Lawrence Livermore National Laboratory, USA)
 + Stephen L. Olivier (Sandia National Laboratories, USA)
-+ Kyle Hale (Illinois Institute of Technology, USA)
++ Kyle Hale (Oregon State University, USA)
 
 ---
 ### <a name="org"></a>Organizers
  + Maya Gokhale (Lawrence Livermore National Laboratory, USA)
  + Ivy Peng (KTH Royal Institute of Technology, Sweden)
- + Kyle Hale (Illinois Institute of Technology, USA)
+ + Kyle Hale (Oregon State University, USA)
  + Stephen L. Olivier (Sandia National Laboratories, USA)
  + Ron Minnich (Hewlett Packard Enterprise, USA)
  
