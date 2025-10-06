@@ -9,15 +9,36 @@ permalink: /events/memo25
 ----
 
 #### held in conjunction SC25: [The International Conference on High Performance Computing, Networking, Storage and Analysis](https://sc25.supercomputing.org/) and in cooperation with [IEEE Computer Society](https://www.computer.org)
-#### Time/Date: 2:00PM - 5:30PM, Sunday, November 16, 2025
+#### Time/Date: 2:00PM - 5:30PM, Sunday, November 16, 2025 (Room 274)
 #### Location: Room TBD, [the America’s Center Convention Complex](https://sc25.supercomputing.org/attend/convention-center/)
 ----
 ### MEMO'25 Panel: Energy-efficient Memory Technology for maximizing bandwidth and reducing latency
+### Moderator: Gwendolyn Voskuilen (Sandia National Laboratory)
 ### Speakers:
 + Nuwan Jayasena, AMD
 + Stephen Morein, Intel
 + Mike O'Connor, Nvidia
 + Michael James, Cerebras
+---
+
+### <a name="program"></a>Program (2:00PM - 5:30PM, Room 274, Sunday, November 16, 2025)
+#### MEMO'25 Panel (2:00 - 3:00)
++ Energy-efficient Memory Technology for maximizing bandwidth and reducing latency
++ Speakers: Nuwan Jayasena (AMD), Stephen Morein (Intel), Mike O'Connor (Nvidia), Michael James (Cerebras)
+#### SC Break (3:00 - 3:30)
+#### Presentations
++ 3:30 - 3:50pm: Umpire: Portable Memory Management for High-Performance Computing Applications
+  + Kristi Belcher, David Beckingsale
++ 3:50 - 4:10pm:The MALL is Open: Exploring Shared Caches and Latency in AMD CDNA™ 3 GPUs
+  + Andrew Tee, Nicholas Curtis, Noah Wolfe, Daniel Wong
++ 4:10 - 4:30pm:CaRDS: Compiler-aided Remote Data Structures
+  + Brian Tauro, Ian Dougherty, Kyle Hale
++ 4:30 - 4:50pm:Hardware-Software Co-Design of Iterative Filter-Update Numerical Methods Using Processing-In-Memory
+  + Eric Tang, Tianyun Zhang, William Bradford, Farzana Siddique, James Hoe, Kevin Skadron, Franz Franchetti
++ 4:50 - 5:30pm: CXL focus session:
+  + Speaker: Andres Marquez (Pacific Northwest National Laboratory)
+  + Speaker: Jie Ren (William & Mary)
++ 5:30: Closing Remarks
 
 ----
 ### <a name="Intro"></a>Introduction
@@ -83,14 +104,8 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Stephen L. Olivier (Sandia National Laboratories, USA)
  + Ron Minnich (Hewlett Packard Enterprise, USA)
  
----
 
-### <a name="program"></a>Program (2:00PM - 5:30PM, Room TBD, Sunday, November 16, 2025)
-#### MEMO'25 Panel (2:00 - 3:00)
-+ Energy-efficient Memory Technology for maximizing bandwidth and reducing latency
-+ Speakers: Nuwan Jayasena (AMD), Stephen Morein (Intel), Mike O'Connor (Nvidia), Michael James (Cerebras)
-#### Technical Presentations
-+ TBD
+
 
 
 
