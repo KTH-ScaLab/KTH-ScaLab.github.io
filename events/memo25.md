@@ -36,7 +36,7 @@ permalink: /events/memo25
   + Brian Tauro, Ian Dougherty, Kyle Hale
 + 4:30 - 4:50pm:Hardware-Software Co-Design of Iterative Filter-Update Numerical Methods Using Processing-In-Memory
   + Eric Tang, Tianyun Zhang, William Bradford, Farzana Siddique, James Hoe, Kevin Skadron, Franz Franchetti
-+ 4:50 - 5:30pm: CXL focus session:
++ 4:50 - 5:30pm: CXL focus session (moderated by Maya Gokhale)
   + Speaker: Andres Marquez (Pacific Northwest National Laboratory)
   + Speaker: Jie Ren (William & Mary)
 + 5:30: Closing Remarks
@@ -105,6 +105,7 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Stephen L. Olivier (Sandia National Laboratories, USA)
  + Ron Minnich (Hewlett Packard Enterprise, USA)
  
+
 
 
 
