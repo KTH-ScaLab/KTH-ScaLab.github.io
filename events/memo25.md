@@ -9,8 +9,8 @@ permalink: /events/memo25
 ----
 
 #### held in conjunction SC25: [The International Conference on High Performance Computing, Networking, Storage and Analysis](https://sc25.supercomputing.org/) and in cooperation with [IEEE Computer Society](https://www.computer.org)
-#### Time/Date: 2:00PM - 5:30PM, Sunday, November 16, 2025 (Room 274)
-#### Location: Room TBD, [the America’s Center Convention Complex](https://sc25.supercomputing.org/attend/convention-center/)
+#### Time/Date: 2:00PM - 5:30PM, Sunday, November 16, 2025
+#### Location: Room 274, [the America’s Center Convention Complex](https://sc25.supercomputing.org/attend/convention-center/)
 ----
 ### MEMO'25 Panel: Energy-efficient Memory Technology for maximizing bandwidth and reducing latency
 ### Moderator: Gwendolyn Voskuilen (Sandia National Laboratory)
@@ -19,9 +19,10 @@ permalink: /events/memo25
 + Stephen Morein, Intel
 + Mike O'Connor, Nvidia
 + Michael James, Cerebras
+
 ---
 
-### <a name="program"></a>Program (2:00PM - 5:30PM, Room 274, Sunday, November 16, 2025)
+#### <a name="program"></a>Program (2:00PM - 5:30PM, Room 274, Sunday, November 16, 2025)
 #### MEMO'25 Panel (2:00 - 3:00)
 + Energy-efficient Memory Technology for maximizing bandwidth and reducing latency
 + Speakers: Nuwan Jayasena (AMD), Stephen Morein (Intel), Mike O'Connor (Nvidia), Michael James (Cerebras)
@@ -104,6 +105,7 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Stephen L. Olivier (Sandia National Laboratories, USA)
  + Ron Minnich (Hewlett Packard Enterprise, USA)
  
+
 
 
 
