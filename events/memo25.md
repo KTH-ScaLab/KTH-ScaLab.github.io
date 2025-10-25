@@ -12,22 +12,21 @@ permalink: /events/memo25
 #### Time/Date: 2:00PM - 5:30PM, Sunday, November 16, 2025
 #### Location: Room 274, [the America’s Center Convention Complex](https://sc25.supercomputing.org/attend/convention-center/)
 ----
-### MEMO'25 Panel: Energy-efficient Memory Technology for maximizing bandwidth and reducing latency
-### Moderator: Gwendolyn Voskuilen (Sandia National Laboratory)
-### Speakers:
+#### <a name="program"></a>Expert Panel: Energy-efficient Memory Technology for maximizing bandwidth and reducing latency
+#### 2:00 - 3:00, Room 274, Sunday, November 16, 2025
+#### Overview:
+Historically, the performance of many HPC applications has been limited by memory bandwidth and latency. Memory bandwidth has increased at an order of magnitude less per year (on average) versus processor performance. Improving memory latency has proven to be even more challenging. This panel brings together industry leaders involved in the NNSA’s Advanced Memory Technology program, which was conceived to address memory performance by inspiring dramatic memory technology advancements for NNSA applications. The panel will discuss future memory technologies, including trends, challenges, and efforts to rethink and overcome memory system performance hurdles.
+#### Moderator: 
++ Gwendolyn Voskuilen (Sandia National Laboratory)
+#### Speakers:
 + Nuwan Jayasena, AMD
-+ Stephen Morein, Intel
++ Stephen Morein, Saimemory (was Intel)
 + Mike O'Connor, Nvidia
 + Michael James, Cerebras
-
 ---
-
-#### <a name="program"></a>Program (2:00PM - 5:30PM, Room 274, Sunday, November 16, 2025)
-#### MEMO'25 Panel (2:00 - 3:00)
-+ Energy-efficient Memory Technology for maximizing bandwidth and reducing latency
-+ Speakers: Nuwan Jayasena (AMD), Stephen Morein (Intel), Mike O'Connor (Nvidia), Michael James (Cerebras)
-#### SC Break (3:00 - 3:30)
-#### Presentations
+#### SC Coffee Break (3:00 - 3:30)
+---
+#### Paper Presentations
 + 3:30 - 3:50pm: Umpire: Portable Memory Management for High-Performance Computing Applications
   + Kristi Belcher, David Beckingsale
 + 3:50 - 4:10pm:The MALL is Open: Exploring Shared Caches and Latency in AMD CDNA™ 3 GPUs
@@ -36,11 +35,13 @@ permalink: /events/memo25
   + Brian Tauro, Ian Dougherty, Kyle Hale
 + 4:30 - 4:50pm:Hardware-Software Co-Design of Iterative Filter-Update Numerical Methods Using Processing-In-Memory
   + Eric Tang, Tianyun Zhang, William Bradford, Farzana Siddique, James Hoe, Kevin Skadron, Franz Franchetti
-+ 4:50 - 5:30pm: CXL focus session (moderated by Maya Gokhale)
-  + Speaker: Andres Marquez (Pacific Northwest National Laboratory)
-  + Speaker: Jie Ren (William & Mary)
-+ 5:30: Closing Remarks
-
+---
+#### CXL focus session (4:50 - 5:30), moderated by Maya Gokhale
+#### Speakers:
++ Andres Marquez (Pacific Northwest National Laboratory)
++ Jie Ren (William & Mary)
+---
+#### Closing Remarks (5:30)
 ----
 ### <a name="Intro"></a>Introduction
 Recent developments of new memory technologies, such as high-bandwidth memory, non-volatile memory, and disaggregated memory, coupled with advanced high-performance interconnects like CXL and NVlink-c2c, further expand the memory hierarchy and increasingly blur the boundary between memory and storage. The growing disparity between computing speed and memory speed, commonly referred to as the Memory Wall problem, remains a critical and enduring challenge in the computing community. 
