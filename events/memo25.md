@@ -18,11 +18,13 @@ permalink: /events/memo25
 Historically, the performance of many HPC applications has been limited by memory bandwidth and latency. Memory bandwidth has increased at an order of magnitude less per year (on average) versus processor performance. Improving memory latency has proven to be even more challenging. This panel brings together industry leaders involved in the NNSA’s Advanced Memory Technology program, which was conceived to address memory performance by inspiring dramatic memory technology advancements for NNSA applications. The panel will discuss future memory technologies, including trends, challenges, and efforts to rethink and overcome memory system performance hurdles.
 #### Moderator: 
 + Gwendolyn Voskuilen (Sandia National Laboratory)
+
 #### Speakers:
 + Nuwan Jayasena, AMD
 + Stephen Morein, Saimemory (was Intel)
 + Mike O'Connor, Nvidia
 + Michael James, Cerebras
+
 ---
 #### SC Coffee Break (3:00 - 3:30)
 ---
@@ -35,14 +37,17 @@ Historically, the performance of many HPC applications has been limited by memor
   + Brian Tauro, Ian Dougherty, Kyle Hale
 + 4:30 - 4:50pm:Hardware-Software Co-Design of Iterative Filter-Update Numerical Methods Using Processing-In-Memory
   + Eric Tang, Tianyun Zhang, William Bradford, Farzana Siddique, James Hoe, Kevin Skadron, Franz Franchetti
+
 ---
 #### CXL focus session (4:50 - 5:30), moderated by Maya Gokhale
 #### Speakers:
 + Andres Marquez (Pacific Northwest National Laboratory)
 + Jie Ren (William & Mary)
+
 ---
 #### Closing Remarks (5:30)
 ----
+
 ### <a name="Intro"></a>Introduction
 Recent developments of new memory technologies, such as high-bandwidth memory, non-volatile memory, and disaggregated memory, coupled with advanced high-performance interconnects like CXL and NVlink-c2c, further expand the memory hierarchy and increasingly blur the boundary between memory and storage. The growing disparity between computing speed and memory speed, commonly referred to as the Memory Wall problem, remains a critical and enduring challenge in the computing community. 
 
@@ -106,6 +111,7 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Stephen L. Olivier (Sandia National Laboratories, USA)
  + Ron Minnich (Hewlett Packard Enterprise, USA)
  
+
 
 
 
