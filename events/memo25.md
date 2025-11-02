@@ -17,11 +17,11 @@ permalink: /events/memo25
 #### Overview:
 Historically, the performance of many HPC applications has been limited by memory bandwidth and latency. Memory bandwidth has increased at an order of magnitude less per year (on average) versus processor performance. Improving memory latency has proven to be even more challenging. This panel brings together industry leaders involved in the NNSA’s Advanced Memory Technology program, which was conceived to address memory performance by inspiring dramatic memory technology advancements for NNSA applications. The panel will discuss future memory technologies, including trends, challenges, and efforts to rethink and overcome memory system performance hurdles.
 #### Moderator: 
-+ Gwendolyn Voskuilen (Sandia National Laboratory)
++ Gwendolyn Voskuilen (Sandia National Laboratories)
 
 #### Speakers:
 + Nuwan Jayasena, AMD
-+ Stephen Morein, Saimemory (was Intel)
++ Stephen Morein, Saimemory
 + Mike O'Connor, Nvidia
 + Michael James, Cerebras
 
@@ -111,6 +111,7 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Stephen L. Olivier (Sandia National Laboratories, USA)
  + Ron Minnich (Hewlett Packard Enterprise, USA)
  
+
 
 
 
