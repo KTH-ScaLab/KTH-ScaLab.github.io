@@ -20,7 +20,7 @@ Historically, the performance of many HPC applications has been limited by memor
 + Gwendolyn Voskuilen (Sandia National Laboratories)
 
 #### Panelists:
-Josh Fryman (Intel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuwan Jayasena (AMD)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike O'Connor (NVIDIA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Michael James (Cerebras)
+Josh Fryman (Intel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuwan Jayasena (AMD)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike O'Connor (NVIDIA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leighton Wilson (Cerebras)
 
 <img src="../assets/images/memo25-josh.jpg" alt="josh" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-nuwan.png" alt="nuwan" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-mike.png" alt="mike" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-Leighton.png" alt="Leighton" style="float: left; margin-right: 10px; height:150px; width:150px"/><br />  
   
@@ -126,6 +126,7 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Ron Minnich (Hewlett Packard Enterprise, USA)
 
  
+
 
 
 
