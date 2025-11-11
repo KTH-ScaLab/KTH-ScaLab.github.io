@@ -12,7 +12,7 @@ permalink: /events/memo25
 #### 2:00PM - 5:30PM, Sunday, November 16, 2025
 #### Room 274, [the America’s Center Convention Complex](https://sc25.supercomputing.org/attend/convention-center/)
 ----
-#### <a name="program"></a>2:00 - 3:05, MEMO'25 Opening
+#### <a name="program"></a>2:00 - 3:05, MEMO'25 Opening: [Maya Gokhale](https://people.llnl.gov/gokhale2)
 #### 2:05 - 3:00, Expert Panel: Energy-efficient Memory Technology for maximizing bandwidth and reducing latency
 #### Overview:
 Historically, the performance of many HPC applications has been limited by memory bandwidth and latency. Memory bandwidth has increased at an order of magnitude less per year (on average) versus processor performance. Improving memory latency has proven to be even more challenging. This panel brings together industry leaders involved in the NNSA’s Advanced Memory Technology program, which was conceived to address memory performance by inspiring dramatic memory technology advancements for NNSA applications. The panel will discuss future memory technologies, including trends, challenges, and efforts to rethink and overcome memory system performance hurdles.
@@ -48,7 +48,7 @@ Josh Fryman (Intel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuwan Jayasen
   + Eric Tang, Tianyun Zhang, William Bradford, Farzana Siddique, James Hoe, Kevin Skadron, Franz Franchetti
 
 ---
-#### CXL focus session (4:50 - 5:30) (Moderator: Maya Gokhale)
+#### CXL focus session (4:50 - 5:30) (Moderator: [Stephen Lecler Olivier](https://www.sandia.gov/ccr/staff/stephen-lecler-olivier/))
 ##### Talk 1: AMAIS — Advanced Memory to Support AI for Science
 + Speaker: [Andres Marquez (Pacific Northwest National Laboratory)](https://www.pnnl.gov/people/andres-marquez)
   + Bio: Dr. Marquez is a Chief Scientist at Pacific Northwest National Laboratory (PNNL) and a Team Lead for the Future Computing Technologies Group, focusing on Next Gen Architecture Design. He's the manager of PNNL's Advanced Measurement Laboratory and Principal Investigator for the Advanced Memory to Support AI for Science (AMAIS) project, exploring novel system-level memory technologies.
@@ -56,11 +56,11 @@ Josh Fryman (Intel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuwan Jayasen
 In response to these challenges, the AMAIS (Advanced Memory to support AI for Science) project introduces a heterogeneous, active memory compute paradigm designed to handle and accelerate data-intensive workloads on large memory systems. 
 This talk will briefly showcase the machines being deployed. 
 
-+ [Jie Ren (William & Mary)](https://www.wm.edu/as/computerscience/people/ren_jie.php)
++ Speaker: [Jie Ren (William & Mary)](https://www.wm.edu/as/computerscience/people/ren_jie.php)
   + Bio: Dr. Jie Ren is an Assistant Professor of Computer Science at William & Mary. Her research interests include High-Performance Computing, parallel and distributed systems, heterogeneous and composable memory systems, and affordable machine learning systems. Her work aims to improve the accessibility, efficiency, and scalability of modern computing infrastructures.
 
 ---
-#### Closing Remarks (5:30)
+#### Closing Remarks (5:30): Maya Gokhale
 ----
 
 ### <a name="Intro"></a>Introduction
@@ -127,6 +127,7 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Ron Minnich (Hewlett Packard Enterprise, USA)
 
  
+
 
 
 
