@@ -16,10 +16,8 @@ permalink: /events/memo25
 #### 2:00 - 3:00, Room 274, Sunday, November 16, 2025
 #### Overview:
 Historically, the performance of many HPC applications has been limited by memory bandwidth and latency. Memory bandwidth has increased at an order of magnitude less per year (on average) versus processor performance. Improving memory latency has proven to be even more challenging. This panel brings together industry leaders involved in the NNSA’s Advanced Memory Technology program, which was conceived to address memory performance by inspiring dramatic memory technology advancements for NNSA applications. The panel will discuss future memory technologies, including trends, challenges, and efforts to rethink and overcome memory system performance hurdles.
-#### Moderator: 
-+ Gwendolyn Voskuilen (Sandia National Laboratories)
-
-#### Speakers:
+#### Moderator: Gwendolyn Voskuilen (Sandia National Laboratories)
+#### Panelists:
 + Nuwan Jayasena, AMD
 + Josh Fryman, Intel
 + Mike O'Connor, Nvidia
@@ -28,7 +26,7 @@ Historically, the performance of many HPC applications has been limited by memor
 ---
 #### SC Coffee Break (3:00 - 3:30)
 ---
-#### Technical Paper Presentations (Moderator: [Stephen Lecler Olivier](https://www.sandia.gov/ccr/staff/stephen-lecler-olivier/))
+#### Technical Paper Presentations (Moderator: [Kyle C. Hale](https://engineering.oregonstate.edu/people/kyle-c-hale))
 + 3:30 - 3:50pm: Umpire: Portable Memory Management for High-Performance Computing Applications
   + Kristi Belcher, David Beckingsale
 + 3:50 - 4:10pm:The MALL is Open: Exploring Shared Caches and Latency in AMD CDNA™ 3 GPUs
@@ -117,6 +115,7 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Stephen L. Olivier (Sandia National Laboratories, USA)
  + Ron Minnich (Hewlett Packard Enterprise, USA)
  
+
 
 
 
