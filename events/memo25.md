@@ -19,10 +19,18 @@ Historically, the performance of many HPC applications has been limited by memor
 #### Moderator: 
 + Gwendolyn Voskuilen (Sandia National Laboratories)
 #### Panelists:
-+ Nuwan Jayasena, AMD
-+ Josh Fryman, Intel
-+ Mike O'Connor, Nvidia
-+ Michael James, Cerebras
+Josh Fryman (Intel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuwan Jayasena (AMD)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike O'Connor (NVIDIA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Michael James (Cerebras)
+
+<img src="../assets/images/memo25-josh.jpg" alt="josh" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-nuwan.png" alt="nuwan" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-mike.png" alt="mike" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-Leighton.png" alt="Leighton" style="float: left; margin-right: 10px; height:150px; width:150px"/>
+
+**Josh Fryman** is an Intel Fellow and CTO for the Intel Government Technologies group, while also directing the R&D strategy for the public sector. Josh is primarily focused on applied R&D for commercial and government customers for problems that are 3-10 years out on the horizon.  Josh has personally been engaged in everything from microprocessor design to system architectures, compilers, runtimes, applications, and algorithms.  Josh was chief architect or PI for multiple R&D programs spanning multiple government agencies and technical domains. Josh obtained his BS in Computer Engineering from Univ. of Florida, and his PhD in Computer Architecture from GaTech.
+
+**Nuwan Jayasena** is a Fellow at AMD Research and Advanced Development with 20+ years’ experience in processor and system design. He leads a team focused on future memory and accelerator architectures. Nuwan holds an M.S and a Ph.D. in Electrical Engineering from Stanford University, is an inventor of over 90 granted US patents, and is an author of over 30 peer-reviewed publications. Prior to AMD, Nuwan was a processor architect at Stream Processors, Inc. and at Nvidia.
+
+**Mike O'Connor** is a Principal Research Scientist in the Architecture Research Group at NVIDIA, where he develops future DRAM and memory system architectures.  In a prior role at NVIDIA, he was the memory system architecture lead for several generations of NVIDIA GPUs. Mike’s career has also included positions at AMD, Texas Instruments, Silicon Access Networks (a network-processor startup), Sun Microsystems, and IBM.  At AMD, he drove key aspects of the architecture definition for the initial High-Bandwidth Memory (HBM) specification.   Mike has a BSEE from Rice University and an MSEE & PhD from the University of Texas at Austin.
+
+**Leighton Wilson** is a Senior Member of Technical Staff at Cerebras Systems. He works with customers across industry and government to achieve record-shattering performance on Cerebras’s wafer-scale architecture. He also leads development efforts for the Cerebras SDK for low-level system programming and manages software development for a Cerebras collaboration with the Defense Advanced Research Projects Agency (DARPA). In 2023, he was a Gordon Bell Award finalist for his work with Cerebras and KAUST on scaling the “Memory Wall” for multi-dimensional seismic processing with algebraic compression on Cerebras CS-2 systems. In 2021, Leighton received his PhD in Applied and Interdisciplinary Mathematics and Scientific Computing at the University of Michigan, working with Robert Krasny on fast summation methods for biomolecular electrostatics.
+
 
 ---
 #### SC Coffee Break (3:00 - 3:30)
@@ -115,7 +123,9 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Kyle Hale (Oregon State University, USA)
  + Stephen L. Olivier (Sandia National Laboratories, USA)
  + Ron Minnich (Hewlett Packard Enterprise, USA)
+
  
+
 
 
 
