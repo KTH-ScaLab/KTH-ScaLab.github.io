@@ -22,8 +22,12 @@ Historically, the performance of many HPC applications has been limited by memor
 #### Panelists:
 Josh Fryman (Intel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuwan Jayasena (AMD)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike O'Connor (NVIDIA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leighton Wilson (Cerebras)
 
-<img src="../assets/images/memo25-josh.jpg" alt="josh" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-nuwan.png" alt="nuwan" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-mike.png" alt="mike" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-Leighton.png" alt="Leighton" style="float: left; margin-right: 10px; height:150px; width:150px"/><br />  
-  
+<img src="../assets/images/memo25-josh.jpg" alt="josh" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-nuwan.png" alt="nuwan" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-mike.png" alt="mike" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-Leighton.png" alt="Leighton" style="float: left; margin-right: 10px; height:150px; width:150px"/><br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
+<br/>  
 **Josh Fryman** is an Intel Fellow and CTO for the Intel Government Technologies group, while also directing the R&D strategy for the public sector. Josh is primarily focused on applied R&D for commercial and government customers for problems that are 3-10 years out on the horizon.  Josh has personally been engaged in everything from microprocessor design to system architectures, compilers, runtimes, applications, and algorithms.  Josh was chief architect or PI for multiple R&D programs spanning multiple government agencies and technical domains. Josh obtained his BS in Computer Engineering from Univ. of Florida, and his PhD in Computer Architecture from GaTech.
 
 **Nuwan Jayasena** is a Fellow at AMD Research and Advanced Development with 20+ years’ experience in processor and system design. He leads a team focused on future memory and accelerator architectures. Nuwan holds an M.S and a Ph.D. in Electrical Engineering from Stanford University, is an inventor of over 90 granted US patents, and is an author of over 30 peer-reviewed publications. Prior to AMD, Nuwan was a processor architect at Stream Processors, Inc. and at Nvidia.
@@ -126,6 +130,7 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Ron Minnich (Hewlett Packard Enterprise, USA)
 
  
+
 
 
 
