@@ -8,15 +8,16 @@ permalink: /events/memo25
 #### [Introduction](#Intro) | [Topics](#topics) | [Dates](#dates) | [Organizers](#org) | [Program Committee](#pc) | [Submission](#submission) | [Program](#program) 
 ----
 
-#### held in conjunction SC25: [The International Conference on High Performance Computing, Networking, Storage and Analysis](https://sc25.supercomputing.org/) and in cooperation with [IEEE Computer Society](https://www.computer.org)
-#### Time/Date: 2:00PM - 5:30PM, Sunday, November 16, 2025
-#### Location: Room 274, [the America’s Center Convention Complex](https://sc25.supercomputing.org/attend/convention-center/)
+#### held in conjunction with [SC'25](https://sc25.supercomputing.org/) and in cooperation with [IEEE Computer Society](https://www.computer.org)
+#### 2:00PM - 5:30PM, Sunday, November 16, 2025
+#### Room 274, [the America’s Center Convention Complex](https://sc25.supercomputing.org/attend/convention-center/)
 ----
-#### <a name="program"></a>Expert Panel: Energy-efficient Memory Technology for maximizing bandwidth and reducing latency
 #### 2:00 - 3:00, Room 274, Sunday, November 16, 2025
+#### <a name="program"></a>Expert Panel: Energy-efficient Memory Technology for maximizing bandwidth and reducing latency
 #### Overview:
 Historically, the performance of many HPC applications has been limited by memory bandwidth and latency. Memory bandwidth has increased at an order of magnitude less per year (on average) versus processor performance. Improving memory latency has proven to be even more challenging. This panel brings together industry leaders involved in the NNSA’s Advanced Memory Technology program, which was conceived to address memory performance by inspiring dramatic memory technology advancements for NNSA applications. The panel will discuss future memory technologies, including trends, challenges, and efforts to rethink and overcome memory system performance hurdles.
-#### Moderator: Gwendolyn Voskuilen (Sandia National Laboratories)
+#### Moderator: 
++ Gwendolyn Voskuilen (Sandia National Laboratories)
 #### Panelists:
 + Nuwan Jayasena, AMD
 + Josh Fryman, Intel
@@ -115,6 +116,7 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Stephen L. Olivier (Sandia National Laboratories, USA)
  + Ron Minnich (Hewlett Packard Enterprise, USA)
  
+
 
 
 
