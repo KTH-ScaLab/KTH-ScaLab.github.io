@@ -22,7 +22,7 @@ Historically, the performance of many HPC applications has been limited by memor
 #### Panelists:
 Josh Fryman (Intel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuwan Jayasena (AMD)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike O'Connor (NVIDIA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Michael James (Cerebras)
 
-<img src="../assets/images/memo25-josh.jpg" alt="josh" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-nuwan.png" alt="nuwan" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-mike.png" alt="mike" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-Leighton.png" alt="Leighton" style="float: left; margin-right: 10px; height:150px; width:150px"/>
+<img src="../assets/images/memo25-josh.jpg" alt="josh" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-nuwan.png" alt="nuwan" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-mike.png" alt="mike" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-Leighton.png" alt="Leighton" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 **Josh Fryman** is an Intel Fellow and CTO for the Intel Government Technologies group, while also directing the R&D strategy for the public sector. Josh is primarily focused on applied R&D for commercial and government customers for problems that are 3-10 years out on the horizon.  Josh has personally been engaged in everything from microprocessor design to system architectures, compilers, runtimes, applications, and algorithms.  Josh was chief architect or PI for multiple R&D programs spanning multiple government agencies and technical domains. Josh obtained his BS in Computer Engineering from Univ. of Florida, and his PhD in Computer Architecture from GaTech.
@@ -127,6 +127,7 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Ron Minnich (Hewlett Packard Enterprise, USA)
 
  
+
 
 
 
