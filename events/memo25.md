@@ -18,6 +18,7 @@ permalink: /events/memo25
 Historically, the performance of many HPC applications has been limited by memory bandwidth and latency. Memory bandwidth has increased at an order of magnitude less per year (on average) versus processor performance. Improving memory latency has proven to be even more challenging. This panel brings together industry leaders involved in the NNSA’s Advanced Memory Technology program, which was conceived to address memory performance by inspiring dramatic memory technology advancements for NNSA applications. The panel will discuss future memory technologies, including trends, challenges, and efforts to rethink and overcome memory system performance hurdles.
 #### Moderator: 
 + Gwendolyn Voskuilen (Sandia National Laboratories)
+
 #### Panelists:
 Josh Fryman (Intel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuwan Jayasena (AMD)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike O'Connor (NVIDIA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Michael James (Cerebras)
 
@@ -125,6 +126,7 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Ron Minnich (Hewlett Packard Enterprise, USA)
 
  
+
 
 
 
