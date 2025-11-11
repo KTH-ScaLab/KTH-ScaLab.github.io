@@ -12,8 +12,8 @@ permalink: /events/memo25
 #### 2:00PM - 5:30PM, Sunday, November 16, 2025
 #### Room 274, [the America’s Center Convention Complex](https://sc25.supercomputing.org/attend/convention-center/)
 ----
-#### 2:00 - 3:00, Room 274, Sunday, November 16, 2025
-#### <a name="program"></a>Expert Panel: Energy-efficient Memory Technology for maximizing bandwidth and reducing latency
+#### <a name="program"></a>2:00 - 3:05, MEMO'25 Opening
+#### 2:05 - 3:00, Expert Panel: Energy-efficient Memory Technology for maximizing bandwidth and reducing latency
 #### Overview:
 Historically, the performance of many HPC applications has been limited by memory bandwidth and latency. Memory bandwidth has increased at an order of magnitude less per year (on average) versus processor performance. Improving memory latency has proven to be even more challenging. This panel brings together industry leaders involved in the NNSA’s Advanced Memory Technology program, which was conceived to address memory performance by inspiring dramatic memory technology advancements for NNSA applications. The panel will discuss future memory technologies, including trends, challenges, and efforts to rethink and overcome memory system performance hurdles.
 #### Moderator: 
@@ -23,9 +23,6 @@ Historically, the performance of many HPC applications has been limited by memor
 Josh Fryman (Intel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuwan Jayasena (AMD)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mike O'Connor (NVIDIA)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leighton Wilson (Cerebras)
 
 <img src="../assets/images/memo25-josh.jpg" alt="josh" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-nuwan.png" alt="nuwan" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-mike.png" alt="mike" style="float: left; margin-right: 10px; height:150px; width:150px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/images/memo25-Leighton.png" alt="Leighton" style="float: left; margin-right: 10px; height:150px; width:150px"/><br/>  
-<br/>  
-<br/>  
-<br/>  
 <br/>  
 <br/>  
 **Josh Fryman** is an Intel Fellow and CTO for the Intel Government Technologies group, while also directing the R&D strategy for the public sector. Josh is primarily focused on applied R&D for commercial and government customers for problems that are 3-10 years out on the horizon.  Josh has personally been engaged in everything from microprocessor design to system architectures, compilers, runtimes, applications, and algorithms.  Josh was chief architect or PI for multiple R&D programs spanning multiple government agencies and technical domains. Josh obtained his BS in Computer Engineering from Univ. of Florida, and his PhD in Computer Architecture from GaTech.
@@ -130,6 +127,7 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Ron Minnich (Hewlett Packard Enterprise, USA)
 
  
+
 
 
 
