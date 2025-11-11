@@ -21,14 +21,14 @@ Historically, the performance of many HPC applications has been limited by memor
 
 #### Speakers:
 + Nuwan Jayasena, AMD
-+ Stephen Morein, Saimemory
++ Josh Fryman, Intel
 + Mike O'Connor, Nvidia
 + Michael James, Cerebras
 
 ---
 #### SC Coffee Break (3:00 - 3:30)
 ---
-#### Paper Presentations
+#### Technical Paper Presentations (Moderator: [Stephen Lecler Olivier](https://www.sandia.gov/ccr/staff/stephen-lecler-olivier/))
 + 3:30 - 3:50pm: Umpire: Portable Memory Management for High-Performance Computing Applications
   + Kristi Belcher, David Beckingsale
 + 3:50 - 4:10pm:The MALL is Open: Exploring Shared Caches and Latency in AMD CDNA™ 3 GPUs
@@ -39,10 +39,16 @@ Historically, the performance of many HPC applications has been limited by memor
   + Eric Tang, Tianyun Zhang, William Bradford, Farzana Siddique, James Hoe, Kevin Skadron, Franz Franchetti
 
 ---
-#### CXL focus session (4:50 - 5:30), moderated by Maya Gokhale
-#### Speakers:
-+ Andres Marquez (Pacific Northwest National Laboratory)
-+ Jie Ren (William & Mary)
+#### CXL focus session (4:50 - 5:30) (Moderator: Maya Gokhale)
+##### Talk 1: AMAIS — Advanced Memory to Support AI for Science
++ Speaker: [Andres Marquez (Pacific Northwest National Laboratory)](https://www.pnnl.gov/people/andres-marquez)
+  + Bio: Dr. Marquez is a Chief Scientist at Pacific Northwest National Laboratory (PNNL) and a Team Lead for the Future Computing Technologies Group, focusing on Next Gen Architecture Design. He's the manager of PNNL's Advanced Measurement Laboratory and Principal Investigator for the Advanced Memory to Support AI for Science (AMAIS) project, exploring novel system-level memory technologies.
+  + Abstract: Multiple technological and economic inflection points are converging to challenge the trajectory of continuous computing growth observed over the past 30 years. Jim Gray's visionary Fourth Paradigm of Data-Intensive Scientific Discovery is now fully manifest in the form of AI-accelerated computing, reshaping the landscape of scientific exploration and computational workloads.
+In response to these challenges, the AMAIS (Advanced Memory to support AI for Science) project introduces a heterogeneous, active memory compute paradigm designed to handle and accelerate data-intensive workloads on large memory systems. 
+This talk will briefly showcase the machines being deployed. 
+
++ [Jie Ren (William & Mary)](https://www.wm.edu/as/computerscience/people/ren_jie.php)
+  + Bio: Dr. Jie Ren is an Assistant Professor of Computer Science at William & Mary. Her research interests include High-Performance Computing, parallel and distributed systems, heterogeneous and composable memory systems, and affordable machine learning systems. Her work aims to improve the accessibility, efficiency, and scalability of modern computing infrastructures.
 
 ---
 #### Closing Remarks (5:30)
@@ -111,6 +117,7 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Stephen L. Olivier (Sandia National Laboratories, USA)
  + Ron Minnich (Hewlett Packard Enterprise, USA)
  
+
 
 
 
