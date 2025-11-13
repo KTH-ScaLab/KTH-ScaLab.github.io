@@ -57,8 +57,10 @@ Josh Fryman (Intel)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuwan Jayasen
 In response to these challenges, the AMAIS (Advanced Memory to support AI for Science) project introduces a heterogeneous, active memory compute paradigm designed to handle and accelerate data-intensive workloads on large memory systems. 
 This talk will briefly showcase the machines being deployed. 
 
+##### Talk 2: CXL Shared Memory Case Study: Building a Shared Tier for Lustre Metadata 
 + Speaker: [Jie Ren (William & Mary)](https://www.wm.edu/as/computerscience/people/ren_jie.php)
   + Bio: Dr. Jie Ren is an Assistant Professor of Computer Science at William & Mary. Her research interests include High-Performance Computing, parallel and distributed systems, heterogeneous and composable memory systems, and affordable machine learning systems. Her work aims to improve the accessibility, efficiency, and scalability of modern computing infrastructures.
+  + Abstract: Lustre’s metadata path remains a bottleneck: namespace scans inflate tail latency, hot directories serialize, and Distributed Namespace coordination adds extra rounds of work. Compute Express Link (CXL) offers a pooled, byte-addressable memory tier that multiple metadata servers can access via load/store at cache-line granularity. This talk explores a CXL-based shared metadata tier for Lustre that keeps high-leverage metadata warm across servers to shorten lookups, smooth scan tails, and speed restarts, addressing both the I/O wall and the coordination wall while sharing lessons from our early prototype. 
 
 ---
 #### Closing Remarks (5:30): Maya Gokhale
@@ -128,6 +130,7 @@ Optionally, authors may submit Artifact Description (AD) or Artifact Evaluation 
  + Ron Minnich (Hewlett Packard Enterprise, USA)
 
  
+
 
 
 
