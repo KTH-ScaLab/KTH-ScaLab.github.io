@@ -1,3 +1,5 @@
++ [NextAccel’26: International Workshop on Next-generation Accelerators For HPC, Data, and AI at ICS'26](/events/nextaccel26) 
+
 + [MEMO'25: International Workshop on Memory System, Management and Optimization at SC'25](/events/memo25) 
 
 + [MEMO'24: International Workshop on Memory System, Management and Optimization at SC'24](/events/memo24) 
