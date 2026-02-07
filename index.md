@@ -4,7 +4,7 @@ layout: default
 
 ScaLab is a research group focusing on designing and optimizing algorithms, software, and computer architecture to improve the scalability of future computing systems and accelerate scientific discovery. Our research revolve around large-scale parallel systems, including high-performance computing and data centers. Our main research areas include:
 
-***[Our group has year-round openings for highly motivated Ph.D. students who are interested in the following topics. If you are interested, please apply through this <u>link</u>.](https://kth.varbi.com/en/what:job/jobID:681848/type:job/where:4/apply:1)***
+***[Our group has year-round openings for highly motivated Ph.D. students who are interested in the following topics. If you are interested, please apply through this <u>link</u>.](https://kth.varbi.com/en/what:job/jobID:878751/)***
 
 
 #### Heterogeneous Computing
