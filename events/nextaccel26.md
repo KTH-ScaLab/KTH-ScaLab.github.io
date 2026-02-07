@@ -36,13 +36,28 @@ The topics of interest include, but are not limited to:
 
 + Programming models, programmability and performance portability
 
-
 ----
+
+### <a name="pc"></a>Program Committee
++ Dimitrios Soudris, National Technical University of Athens, Greece
++ Suma George Cardwell, Sandia National Laboratories, USA
++ Nick Brown, EPCC - The University of Edinburgh, UK
++ Anup Das, Drexel University, USA
++ John Leidel, Tactical Computing Laboratories, USA
++ Catherine Schuman, the University of Tennessee, USA
++ Ivy Peng, KTH Royal Institute of Technology, Sweden
+
+---
+### <a name="org"></a>Organizers
+ + Antonino Tumeo (Pacific Northwest National Laboratory, USA)
+ + Jeffrey Vetter (Oak Ridge National Laboratory, USA)
+ + Stefano Markidis (KTH Royal Institute of Technology, Sweden)
+----
+
 ### <a name="dates"></a>Important Dates
  + Submission Deadline -- April 15, 2026 (AoE) -- [Submission is Open](https://easychair.org/conferences/?conf=nextaccel26). 
  + Notifications -- May 01, 2026 (AoE)
  + Workshop -- July 06, 2026
-
 ---
 
 ### <a name="submission"></a>Submission and Review Process
@@ -52,19 +67,12 @@ Accepted papers can be included in the ACM proceedings. ACM is transitioning in 
 
 ---
 
-#### <a name="program"></a>2:00 - 5:30: TBD
+#### <a name="program"></a> Program (2:00 - 5:30)
+ +  TBD 
 
-### <a name="pc"></a>Program Committee
-+ TBD
-
----
-### <a name="org"></a>Organizers
- + Antonino Tumeo (Pacific Northwest National Laboratory, USA)
- + Jeffrey Vetter (Oak Ridge National Laboratory, USA)
- + Stefano Markidis (KTH Royal Institute of Technology, Sweden)
- + Ivy Peng (KTH Royal Institute of Technology, Sweden)
 
  
+
 
 
 
