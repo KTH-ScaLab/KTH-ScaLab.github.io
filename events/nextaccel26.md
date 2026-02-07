@@ -52,12 +52,14 @@ The topics of interest include, but are not limited to:
  + Antonino Tumeo (Pacific Northwest National Laboratory, USA)
  + Jeffrey Vetter (Oak Ridge National Laboratory, USA)
  + Stefano Markidis (KTH Royal Institute of Technology, Sweden)
+
 ----
 
 ### <a name="dates"></a>Important Dates
  + Submission Deadline -- April 15, 2026 (AoE) -- [Submission is Open](https://easychair.org/conferences/?conf=nextaccel26). 
  + Notifications -- May 01, 2026 (AoE)
  + Workshop -- July 06, 2026
+
 ---
 
 ### <a name="submission"></a>Submission and Review Process
@@ -67,11 +69,12 @@ Accepted papers can be included in the ACM proceedings. ACM is transitioning in 
 
 ---
 
-#### <a name="program"></a> Program (2:00 - 5:30)
+### <a name="program"></a> Program (2:00 - 5:30)
  +  TBD 
 
 
  
+
 
 
 
