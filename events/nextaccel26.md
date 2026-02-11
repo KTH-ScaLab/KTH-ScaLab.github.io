@@ -45,6 +45,7 @@ The topics of interest include, but are not limited to:
 + Anup Das, Drexel University, USA
 + John Leidel, Tactical Computing Laboratories, USA
 + Catherine Schuman, the University of Tennessee, USA
++ Anastasiia Butko, Lawrence Berkeley National Laboratory, USA
 + Ivy Peng, KTH Royal Institute of Technology, Sweden
 
 ---
@@ -74,6 +75,7 @@ Accepted papers can be included in the ACM proceedings. ACM is transitioning in 
 
 
  
+
 
 
 
