@@ -46,6 +46,8 @@ The topics of interest include, but are not limited to:
 + John Leidel, Tactical Computing Laboratories, USA
 + Catherine Schuman, the University of Tennessee, USA
 + Anastasiia Butko, Lawrence Berkeley National Laboratory, USA
++ Katarzyna Swirydowicz, AMD, USA
++ Filippo Mantovani, Barcelona Supercomputing Center, Spain
 + Ivy Peng, KTH Royal Institute of Technology, Sweden
 
 ---
@@ -57,7 +59,7 @@ The topics of interest include, but are not limited to:
 ----
 
 ### <a name="dates"></a>Important Dates
- + Submission Deadline -- April 15, 2026 (AoE) -- [Submission is Open](https://easychair.org/conferences/?conf=nextaccel26). 
+ + Submission Deadline -- ~~April 15~~,April 20, 2026 (AoE) -- [Submission is Open](https://easychair.org/conferences/?conf=nextaccel26). 
  + Notifications -- May 01, 2026 (AoE)
  + Workshop -- July 06, 2026
 
