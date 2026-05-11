@@ -13,8 +13,7 @@ permalink: /events/nextaccel26
 #### Meeting room 7, [Assembly Buildings Conference Centre](https://dipsa-qub.github.io/ICS2026-webpage/attending/venue.html)
 ---
 
-### <a name="program"></a> Program (2:00 - 5:30)
-#### Keynote: Memory-Centric Computing: Enabling Fundamentally Efficient & Intelligent Machines
+### <a name="program"></a> Keynote: Memory-Centric Computing: Enabling Fundamentally Efficient & Intelligent Machines
 #### Speaker: Professor Onur Mutlu (ETH Zürich)
 
 ##### Bio:
