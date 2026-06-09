@@ -43,6 +43,21 @@ Beyond the algorithmic contribution, CRN2DB illustrates the kind of cross-layer 
 Hyperdimensional Computing (HDC) is a neuro-inspired computing paradigm that represents information using high-dimensional distributed representations, which are combined and compared through simple vector arithmetic. This principle endows HDC with several attractive properties, including robustness, scalability, and inherent parallelism, that make it well-suited for learning tasks on resource-constrained edge devices and a natural candidate for hardware acceleration. Most HDC accelerators in the literature, however, rely on fixed design choices tailored to a specific task, dataset, and hypervector size, lacking the flexibility to adapt across different contexts. This talk introduces HDCU, a reconfigurable hardware accelerator powered by a novel RISC-V instruction set extension. HDCU accelerates core arithmetic operations on hypervectors and can be configured at synthesis time to balance execution speed and resource usage, adapting to diverse applications. A custom RISC-V Instruction Set Extension is designed to efficiently control the accelerator, with instructions fully integrated into the GCC compiler chain and exposed to the programmer as intrinsic function calls. The dual flexibility coming from hardware configuration and software programmability sets this work apart from application-specific solutions in the literature, offering a unique, versatile accelerator adaptable to a wide range of applications and learning tasks.
 
 ----
+
+### Regular Paper: The RISC-V VecR extension: Adding internal registers to RVV
+#### Speaker: Mariusz Szczepaniak (The University of Glasgow, Scotland)
+
+----
+
+### Regular Paper: Post-Moore Technologies for Plasma Simulation: A Community Roadmap
+#### Speaker: Luca Pennati (KTH, Sweden)
+
+----
+
+### Short Paper: An Energy Characterization Study of ML operators in XNNPACK on RISC-V Vector Hardware
+#### Speaker: Ruimin Shi (KTH, Sweden)
+
+----
 ### <a name="Intro"></a>Introduction
 As the scaling limits of traditional general-purpose processors become increasingly apparent, heterogeneous computing has emerged as  a central paradigm for sustaining performance growth, improving energy efficiency, and enabling new classes of computation in the post-Moore era. Modern and future computing systems are rapidly evolving toward extreme heterogeneity, integrating a diverse set of accelerators and execution substrates, ranging from **AI accelerators, neuromorphic and analog computing devices, near- and in-memory accelerators, RISC-V custom processors, CGRAs, to emerging quantum processing units (QPUs)**. 
 
