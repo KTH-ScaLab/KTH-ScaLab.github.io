@@ -44,6 +44,11 @@ Hyperdimensional Computing (HDC) is a neuro-inspired computing paradigm that rep
 
 ----
 
+### Invited Talk: Spiker: open FPGA-powered neuromorphic computing acceleration with local learning at the edge
+#### Speaker: Stefano Di Carlo (Politecnico di Torino, Italy)
+
+----
+
 ### Regular Paper: The RISC-V VecR extension: Adding internal registers to RVV
 #### Speaker: Mariusz Szczepaniak (The University of Glasgow, Scotland)
 
